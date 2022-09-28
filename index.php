@@ -95,7 +95,7 @@ function filterTable($query)
                             <th>First Name</th>
                             <th>Surname</th>
                             <th>Course Name</th>
-                            <th>Completion status</th>
+                            <th>Completion Status</th>
                         </thead>
                     
 

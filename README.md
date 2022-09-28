@@ -11,9 +11,6 @@ To get this running, you need to:
 (please remember to change database credentials in config.php so that the program can login into your local database)
 
 
-2. run index.php
-
-
-3. Visit the page via http://localhost/
+2. run index.php on localhost
 
 My PHP version: 7.4.29

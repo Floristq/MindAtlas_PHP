@@ -1,6 +1,6 @@
 # MindAtlas_Course_Report_PHP
 
-This is a PHP version of the course report. No additional PHP framework is used in the program.
+This is a PHP version of the course report. No additional PHP framework is used in this program.
 
 ## Yang(Author)'s comment:
 
